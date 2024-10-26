@@ -47,7 +47,7 @@ button:hover {
     background: #000 !important;
 }
 
-/* Marina Theme */
+/* MarinaSync Code Theme */
 .cm-s-marina.CodeMirror { background: #000000; color: #00ff00; }
 .cm-s-marina .CodeMirror-cursor { border-left: 1px solid #00ff00; }
 .cm-s-marina .CodeMirror-selected { background: rgba(0, 255, 0, 0.1); }
